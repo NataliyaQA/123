@@ -1,2 +1,20 @@
 
  Result of your calculation is:1.0	Sun Dec 27 22:38:45 EET 2020
+ Result of your calculation is:13.0	Tue Dec 29 21:25:56 EET 2020
+ Result of your calculation is:30.0	Tue Dec 29 21:35:10 EET 2020
+ Result of your calculation is:1.0	Tue Dec 29 21:49:48 EET 2020
+ Result of your calculation is:2.0	Tue Dec 29 22:26:11 EET 2020
+ Result of your calculation is:-20.0	Tue Dec 29 22:34:03 EET 2020
+ Result of your calculation is:19.0	Tue Dec 29 22:34:17 EET 2020
+ Result of your calculation is:30.0	Tue Dec 29 23:56:26 EET 2020
+ Result of your calculation is:30.0	Tue Dec 29 23:57:05 EET 2020
+ Result of your calculation is:20.0	Tue Dec 29 23:57:28 EET 2020
+ Result of your calculation is:100.0	Tue Dec 29 23:58:57 EET 2020
+ Result of your calculation is:20.0	Wed Dec 30 00:06:05 EET 2020
+ Result of your calculation is:20.0	Wed Dec 30 00:08:43 EET 2020
+ Result of your calculation is:20.0	Wed Dec 30 00:23:57 EET 2020
+ Result of your calculation is:20.0	Wed Dec 30 00:25:49 EET 2020
+ Result of your calculation is:30.0	Wed Dec 30 00:28:15 EET 2020
+ Result of your calculation is:0.5	Wed Dec 30 00:28:52 EET 2020
+ Result of your calculation is:30.0	Wed Dec 30 00:30:22 EET 2020
+ Result of your calculation is:200.0	Wed Dec 30 00:30:26 EET 2020
